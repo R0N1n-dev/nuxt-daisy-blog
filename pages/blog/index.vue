@@ -15,6 +15,7 @@
         shadow-xl
         mx-auto
         mt-3
+        transition
         hover:(transition
         duration-150
         transform
