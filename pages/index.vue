@@ -1,6 +1,7 @@
 <template>
   <div>
     <h2 align="center" class="text-red-400">Ronin Spectre</h2>
+    <TheHero />
   </div>
 </template>
 
@@ -8,4 +9,4 @@
 export default {};
 </script>
 
-<style></style>B
+<style></style>

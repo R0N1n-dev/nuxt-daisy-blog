@@ -1,7 +1,7 @@
 //import { defineConfig } from "windicss/helpers";
 
 export default {
-  attributify: false,
+  attributify: true,
   plugins: [require("daisyui")],
   extract: {
     include: ["**/*.{vue,html,jsx,tsx}"],

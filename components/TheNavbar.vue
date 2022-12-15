@@ -39,7 +39,7 @@
     </div>
     <div class="navbar-center hidden lg:flex">
       <ul class="menu menu-horizontal p-0">
-        <li><NuxtLink to="/">Home</NuxtLink></li>
+        <li m="x-2"><NuxtLink to="/" >Home</NuxtLink></li>
         <li><NuxtLink to="/blog">Blog</NuxtLink></li>
       </ul>
     </div>
